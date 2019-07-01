@@ -1,0 +1,51 @@
+body{
+    background:  rgb(88, 87, 87);
+    width: 500px;
+    height: 300px; 
+    text-align: center; 
+}
+
+.my{background: rgb(175, 39, 39);
+    border-radius: 25px;
+    width: 300px;
+    height: 40px; 
+    text-align: center; 
+    color: antiquewhite;
+    font-family: Helvetica, Ariel, sans-serif;
+    line-height: 10px;
+
+}
+
+.red {background: rgb(175, 39, 39);
+    border-radius: 25px;
+    width: 300px;
+    height: 150px; 
+    text-align: center; 
+    color: antiquewhite;
+    font-family: Helvetica, Ariel, sans-serif;
+    
+}
+
+.font {
+    font-size: 2.2em;
+    font-family: Helvetica, Ariel, sans-serif;
+    color: antiquewhite;
+    font-weight: bold;
+    
+}
+
+.name {background: rgb(196, 190, 190);
+    width: 300px;
+    height: 4
+    0px;
+    text-align: center;
+    line-height: 40px;
+    color: black;
+    font-size: 30px;
+    }
+
+.footer {background: rgb(175, 39, 39);
+    border-radius: 0 0 24px 24px;
+    width: 260px;
+    padding: 20px;
+   }
